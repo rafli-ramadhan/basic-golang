@@ -1,0 +1,12 @@
+<people>
+  <person id="1">
+    <firstName>Andi</firstName>
+    <lastName>Wijaya</lastName>
+    <age>30</age>
+  </person>
+  <person id="2">
+    <firstName>Sari</firstName>
+    <lastName>Nugroho</lastName>
+    <age>25</age>
+  </person>
+</people>
