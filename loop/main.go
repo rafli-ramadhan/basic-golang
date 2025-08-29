@@ -24,10 +24,10 @@ func main() {
     // Break & Continue
     for k := 0; k < 10; k++ {
         if k == 3 {
-            continue // skip 3
+            continue
         }
         if k == 6 {
-            break // stop di 6
+            break
         }
         fmt.Println("k:", k)
     }
